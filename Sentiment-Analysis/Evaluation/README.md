@@ -1,7 +1,6 @@
 # Evaluasi Performa Model: MSE, RMSE, dan MAE
 
 ## Pendahuluan
-
 Dalam evaluasi performa model, terutama pada sistem rekomendasi, tiga metrik yang umum digunakan adalah Mean Squared Error (MSE), Root Mean Squared Error (RMSE), dan Mean Absolute Error (MAE). Masing-masing metrik ini memiliki kelebihan dan kekurangan tersendiri, yang akan dijelaskan secara rinci di bawah ini.
 
 ## 1. Mean Squared Error (MSE)
